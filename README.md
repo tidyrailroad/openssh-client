@@ -16,3 +16,5 @@
 -->
 
 # openssh-client
+
+Dockerizes ssh.
